@@ -1,4 +1,12 @@
-﻿Public Class DinerMenuForm
+﻿'Rahiel Rodriguez
+'RCET 0265
+'Spring 2024
+'Diner Menu Program
+'https://github.com/rahielrodriguez/DinerMenu.git
+
+Option Strict On
+Option Explicit On
+Public Class DinerMenuForm
     'TODO
     '[x]Set Soup Content
     '[x]Set Salad Content
