@@ -29,5 +29,19 @@ Served with traditional Tostones, thinly sliced green bananas fried until crispy
 Accompanied by a refreshing cabbage and carrot salad tossed in creamy mayonnaise dressing. 
 Dive into this classic dish for a taste of Venezuelan culinary delight."
     End Sub
+    Private Sub SoupButton_Click(sender As Object, e As EventArgs) Handles SoupButton.Click
+        SoupContent()
 
+    End Sub
+    Private Sub SaladButton_Click(sender As Object, e As EventArgs) Handles SaladButton.Click
+        SaladContent()
+
+    End Sub
+    Private Sub FishButton_Click(sender As Object, e As EventArgs) Handles FishButton.Click
+        FishContent()
+
+    End Sub
+    Private Sub ExitButton_Click(sender As Object, e As EventArgs) Handles ExitButton.Click
+        Me.Close()
+    End Sub
 End Class
