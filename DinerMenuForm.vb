@@ -11,11 +11,11 @@ Public Class DinerMenuForm
     '[x]Set Soup Content
     '[x]Set Salad Content
     '[x]Set Fish Content
-    '[ ]Set Soup button function
-    '[ ]Set salad button function
-    '[ ]Set fish button function
-    '[ ]Set Exit button function
-    '[ ]Display each plate description
+    '[x]Set Soup button function
+    '[x]Set salad button function
+    '[x]Set fish button function
+    '[x]Set Exit button function
+    '[x]Display each plate description
     Sub SoupContent()
         DisplaySpecialLabel.Text = "Indulge in Venezuelan comfort with our Andean Chicken Chupe. 
 A savory blend of tender chicken, potatoes, and sweet corn, 
